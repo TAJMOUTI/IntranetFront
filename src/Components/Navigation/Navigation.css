@@ -1,0 +1,13 @@
+.color-nav{
+    background-color: #38B1D7;
+}
+
+.menu {
+    text-align: justify;
+  }
+
+.menu a{
+    display: inline-block;
+    /* vertical-align: middle;
+    float: none; */
+  }
